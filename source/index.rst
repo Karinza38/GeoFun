@@ -10,6 +10,8 @@ Welcome to GeoFun's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   continents/europe
+
 
 
 Indices and tables
