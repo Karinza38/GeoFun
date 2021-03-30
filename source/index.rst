@@ -11,6 +11,11 @@ Welcome to GeoFun's documentation!
    :caption: Contents:
 
    continents/europe
+   continents/africa
+   continents/asia
+   continents/nord_central_america
+   continents/south_america
+   continents/oceania
 
 
 
