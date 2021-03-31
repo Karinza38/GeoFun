@@ -7,8 +7,8 @@ Welcome to GeoFun's documentation!
 ==================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Continents:
 
    continents/europe
    continents/africa
@@ -17,6 +17,11 @@ Welcome to GeoFun's documentation!
    continents/south_america
    continents/oceania
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Resources:
+
+   resources/resources
 
 
 Indices and tables
