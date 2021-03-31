@@ -41,6 +41,10 @@ Philippines
 Russia
 ------
 
+**Road signs**
+
+- Give way to incoming traffic: arrows heads are close rather than the arrows being next to each other
+
 Singapore
 ---------
 
