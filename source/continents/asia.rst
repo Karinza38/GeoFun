@@ -23,6 +23,10 @@ Israel
 Japan
 -----
 
+**Google car**
+
+- Low camera
+
 Jordan
 ------
 

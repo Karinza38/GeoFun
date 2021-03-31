@@ -123,6 +123,14 @@ Netherlands
 North Macedonia
 ---------------
 
+**Languages**
+
+- Macedonian (cyrillic alphabet) spoken by 66% and Albanian (roman alphabet) spoken by 25%.
+
+**Road signs**
+
+- Yellow filling for give way sign (triangular).
+
 Norway
 ------
 
@@ -168,6 +176,10 @@ Sweden
 
 Switzerland
 -----------
+
+**Google car**
+
+- Low camera
 
 Turkey
 ------
