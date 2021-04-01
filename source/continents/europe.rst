@@ -198,9 +198,19 @@ Poland
 **Road signs**
 
 - Yellow filling and thin red border for warnings and give way sign (all triangular).
+- White bollards with red strip
+
+.. image:: images/poland-bollard.png
+  :width: 200
+  :alt: The bollard in Poland.
 
 Portugal
 --------
+
+**License plates**
+
+- 2005-2020: blue strip on the left, yellow strip on the right
+- 2020-: only blue strip on the left.
 
 Romania
 -------

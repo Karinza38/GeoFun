@@ -8,6 +8,11 @@ Botswana
 Eswatini
 --------
 
+**Landscape**
+
+- Hilly with many trees.
+
+
 Ghana
 -----
 
@@ -16,6 +21,11 @@ Kenya
 
 Lesotho
 -------
+
+**Landscape**
+
+- Cliffs of dark rocks and slopes covered in green grass with no trees
+
 
 Nigeria
 -------
