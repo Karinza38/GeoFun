@@ -33,6 +33,14 @@ Jordan
 Kyrgyz Republic
 ---------------
 
+Georgia
+-------
+
+**License plate**
+
+- Blue strip on the left (similar to European plates).
+
+
 Malaysia
 --------
 

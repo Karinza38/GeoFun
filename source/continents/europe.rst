@@ -4,8 +4,16 @@ Europe
 Albania
 -------
 
+**License plate**
+
+- Two blue strips on the left and right.
+
 Andorra
 -------
+
+**License plate**
+
+- Shorter plate without a blue strip.
 
 Austria
 -------
@@ -17,12 +25,20 @@ Austria
 Belarus
 -------
 
+**License plate**
+
+- No blue strip, but red and green flag on the left.
+
 **Road signs**
 
 - Give way to incoming traffic: arrows heads are close rather than the arrows being next to each other
 
 Belgium
 -------
+
+**License plate**
+
+- Blue strip but red border and letters.
 
 Bulgaria
 --------
@@ -61,6 +77,11 @@ Finland
 France
 ------
 
+**License plate**
+
+- Before 2009 they were yellow with one blue strip on the left
+- After 2009 they are white with a blue strip on the left and a strip with blue background and the logo of the region on the right.
+
 Germany
 -------
 
@@ -81,6 +102,10 @@ Hungary
 Iceland
 -------
 
+**License plate**
+
+- No blue strip, but flag on the left. Blue letters.
+
 **Road signs**
 
 - Yellow filling for priority, warnings and prohibitory signs.
@@ -89,17 +114,40 @@ Iceland
 Ireland
 -------
 
+Isle of Man
+-----------
+
+**License plate**
+
+- Red strip on the left
+
+
 Italy
 -----
+
+**License plate**
+
+- Two blue strips.
 
 Latvia
 ------
 
+Lichtenstein
+------------
+
+**License plate**
+
+- Black plates
+
 Lithuania
 ---------
 
-Luxembouro
+Luxembourg
 ----------
+
+**License plate**
+
+- Yellow plate with blue strip on the left
 
 Malta
 -----
@@ -114,11 +162,21 @@ Moldova
 Monaco
 ------
 
+**License plate**
+
+- Shorter, no blue strips and blue writing.
+
+
 Montenegro
 ----------
 
 Netherlands
 -----------
+
+**License plate**
+
+- Yellow plate with blue strip on the left
+
 
 North Macedonia
 ---------------
@@ -154,6 +212,11 @@ Romania
 San Marino
 ----------
 
+**License plate**
+
+- Shorter plate, no blue strip, blue writing.
+
+
 Serbia
 ------
 
@@ -162,6 +225,11 @@ Slovakia
 
 Slovenia
 --------
+
+**License plate**
+
+- Green border around the plate
+
 
 Spain
 -----
@@ -177,12 +245,22 @@ Sweden
 Switzerland
 -----------
 
+**License plate**
+
+- No blue strip on the left, but a flag on the left and another symbol on the right.
+
+
 **Google car**
 
 - Low camera
 
 Turkey
 ------
+
+**License plate**
+
+- Blue strip on the left
+
 
 **Road signs**
 
@@ -198,6 +276,11 @@ Ukraine
 
 United Kingdom
 --------------
+
+**License plate**
+
+- Different front and back plates. Front is white, back is yellow. Both have a blue strip on the left.
+
 
 **Road signs**
 
