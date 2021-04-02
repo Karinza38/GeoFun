@@ -53,9 +53,14 @@ Philippines
 Russia
 ------
 
-**Road signs**
+**Landscape**
+	- Common to have yellow (gas) pipes around.
 
-- Give way to incoming traffic: arrows heads are close rather than the arrows being next to each other
+**Road signs**
+	- Give way to incoming traffic: arrows heads are close rather than the arrows being next to each other
+
+**Road markings**
+	- Pedestrian crossing both yellow and white.
 
 Singapore
 ---------
