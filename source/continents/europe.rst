@@ -53,6 +53,13 @@ Belgium
 Bulgaria
 --------
 
+**Road signs**
+	- White hexagonal looking bollards with black band and red strip
+
+.. image:: images/bulgaria-bollard.png
+  :width: 200
+  :alt: The bollard in Bulgaria.
+
 Croatia
 -------
 
@@ -292,8 +299,10 @@ Sweden
 ------
 
 **Road signs**
+	- Yellow filling for priority, warnings and prohibitory signs.
 
-- Yellow filling for priority, warnings and prohibitory signs.
+**Websites**
+	- Domain name ends in ``.se``
 
 
 Switzerland
