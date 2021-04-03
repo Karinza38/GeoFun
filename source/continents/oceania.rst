@@ -1,8 +1,8 @@
 Oceania
 =======
 
-Australia
----------
+Australia 🇦🇺
+------------
 
-New Zealand
------------
+New Zealand 🇳🇿
+--------------

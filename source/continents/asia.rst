@@ -2,78 +2,77 @@ Asia
 ====
 
 
-Bangladesh
-----------
+Bangladesh 🇧🇩
+-------------
 
-Bhutan
-------
-
-Cambodia
---------
-
-India
------
-
-Indonesia
+Bhutan 🇧🇹
 ---------
 
-Israel
-------
+Cambodia 🇰🇭
+-----------
 
-Japan
------
+India 🇮🇳
+--------
+
+Indonesia 🇮🇩
+------------
+
+Israel 🇮🇱
+---------
+
+Japan 🇯🇵
+--------
 
 **Google car**
 
 - Low camera
 
-Jordan
-------
+Jordan 🇯🇴
+---------
 
 Kyrgyz Republic
 ---------------
 
-Georgia
--------
+Georgia 🇬🇪
+----------
 
 **License plate**
+    - Blue strip on the left (similar to European plates).
 
-- Blue strip on the left (similar to European plates).
 
-
-Malaysia
---------
-
-Mongolia
---------
-
-Philippines
+Malaysia 🇲🇾
 -----------
 
-Russia
-------
+Mongolia 🇲🇳
+-----------
+
+Philippines 🇵🇭
+--------------
+
+Russia 🇷🇺
+---------
 
 **Landscape**
-	- Common to have yellow (gas) pipes around.
+    - Common to have yellow (gas) pipes around.
 
 **Road signs**
-	- Give way to incoming traffic: arrows heads are close rather than the arrows being next to each other
+    - Give way to incoming traffic: arrows heads are close rather than the arrows being next to each other
 
 **Road markings**
-	- Pedestrian crossing both yellow and white.
+    - Pedestrian crossing both yellow and white.
 
-Singapore
+Singapore 🇸🇬
+------------
+
+South Korea 🇰🇷
+--------------
+
+Sri Lanka 🇱🇰
+------------
+
+Taiwan 🇹🇼
 ---------
 
-South Korea
+Thailand 🇹🇭
 -----------
-
-Sri Lanka
----------
-
-Taiwan
-------
-
-Thailand
---------
 

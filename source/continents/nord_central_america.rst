@@ -2,31 +2,31 @@
 North and central America
 =========================
 
-Canada
-------
-
-**Road sign**
-
-- Speed limit similar to USA, but says "Maximum"
-
-Dominican Republic
-------------------
-
-Greenland
+Canada 🇨🇦
 ---------
 
-Guatemala
+**Road sign**
+    - Speed limit similar to USA, but says "Maximum"
+
+
+Dominican Republic 🇩🇴
+---------------------
+
+Greenland 🇬🇱
+------------
+
+Guatemala 🇬🇹
+------------
+
+Mexico 🇲🇽
 ---------
 
-Mexico
-------
+Puerto Rico 🇵🇷
+--------------
 
-Puerto Rico
------------
-
-United States
--------------
+United States 🇺🇸
+----------------
 
 **Road sign**
+    - Speed limit similar to Canada, but says "Speed limit"
 
-- Speed limit similar to Canada, but says "Speed limit"
