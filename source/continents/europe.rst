@@ -227,8 +227,8 @@ Netherlands 🇳🇱
     - Yellow plate with blue strip on the left
 
 
-North Macedonia
----------------
+North Macedonia 🇲🇰
+------------------
 
 **Languages**
     - Macedonian (cyrillic alphabet) spoken by 66% and Albanian (roman alphabet) spoken by 25%.
