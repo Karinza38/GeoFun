@@ -79,10 +79,10 @@ Czech Republic
 --------------
 
 **Road signs**
-    - White bollards with black bit with two red rectangles on one side and a white rectangle on the other.
+    - White bollards with black bit with two red rectangles on one side and a white rectangle on the other (same as Slovakia).
 
 .. image:: images/czechia-bollard.png
-  :width: 200
+  :width: 800
   :alt: The bollard in Czechia.
 
 Denmark 🇩🇰
@@ -239,6 +239,9 @@ North Macedonia
 Norway 🇳🇴
 ---------
 
+**License plates**
+	- Commercial vehicles have green plates.
+
 Poland 🇵🇱
 ---------
 
@@ -278,6 +281,13 @@ Serbia 🇷🇸
 
 Slovakia 🇸🇰
 -----------
+
+**Road signs**
+    - White bollards with black bit with two red rectangles on one side and a white rectangle on the other (same as Czechia).
+
+.. image:: images/czechia-bollard.png
+  :width: 800
+  :alt: The bollard in Slovakia.
 
 Slovenia 🇸🇮
 -----------

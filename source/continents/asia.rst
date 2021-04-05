@@ -5,6 +5,9 @@ Asia
 Bangladesh 🇧🇩
 -------------
 
+**Meta**
+	- Google car with the roof racks visible.
+	
 Bhutan 🇧🇹
 ---------
 
@@ -16,6 +19,9 @@ India 🇮🇳
 
 Indonesia 🇮🇩
 ------------
+
+**License plate**
+    - Often there are black plates (also in Singapore and Malaysia).
 
 Israel 🇮🇱
 ---------
@@ -43,6 +49,9 @@ Georgia 🇬🇪
 Malaysia 🇲🇾
 -----------
 
+**License plate**
+    - Often there are black plates (also in Indonesia and Singapore).
+
 Mongolia 🇲🇳
 -----------
 
@@ -63,6 +72,9 @@ Russia 🇷🇺
 
 Singapore 🇸🇬
 ------------
+
+**License plate**
+    - Often there are black plates (also in Indonesia and Malaysia).
 
 South Korea 🇰🇷
 --------------

@@ -13,6 +13,9 @@ Brazil 🇧🇷
 Chile 🇨🇱
 --------
 
+**Road lines**
+	- Usually has all white lines.
+
 Colombia 🇨🇴
 -----------
 
