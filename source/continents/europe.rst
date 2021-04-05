@@ -28,8 +28,16 @@ Austria 🇦🇹
     - White bollards with red strip and black top. This bollard is similar to that used in Slovenia and Montenegro. The red strip can also be black (this is less common in Slovenia and Montenegro).
 
 .. image:: images/austria-bollard.png
-  :width: 200
-  :alt: The bollard in Austria.
+  :height: 250
+.. image:: images/austria-road-signs-1.png
+  :height: 250
+.. image:: images/austria-road-signs-2.png
+  :height: 250
+.. image:: images/austria-road-signs-3.png
+  :height: 250
+.. image:: images/austria-road-signs-4.png
+  :height: 250
+
 
 Belarus 🇧🇾
 ----------
@@ -58,6 +66,14 @@ Bulgaria 🇧🇬
 
 Croatia 🇭🇷
 ----------
+
+.. image:: images/croatia-bollard.png
+  :height: 250
+.. image:: images/croatia-road-signs-1.png
+  :height: 250
+.. image:: images/croatia-road-signs-2.png
+  :height: 250
+
 
 Czech Republic
 --------------
