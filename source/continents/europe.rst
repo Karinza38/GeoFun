@@ -286,7 +286,11 @@ Switzerland 🇨🇭
 --------------
 
 **License plate**
-    - No blue strip on the left, but a flag on the left and another symbol on the right.
+    - Not "european" license plate (i.e no blue strip on the left), but a flag on the left and another symbol on the right.
+
+**Road signs**
+    - Yellow pedestrian crossings.
+    - Back side of (circular?) signs have a "cross".
 
 **Google car**
     - Low camera
