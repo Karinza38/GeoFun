@@ -85,6 +85,13 @@ Sri Lanka 🇱🇰
 Taiwan 🇹🇼
 ---------
 
+**Road signs**
+	- Poles next to the street are coloured black and yellow.
+
+.. image:: images/taiwan-pole.png
+  :width: 400
+  :alt: Poles in Taiwan.
+
 Thailand 🇹🇭
 -----------
 
