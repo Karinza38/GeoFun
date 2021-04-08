@@ -67,6 +67,11 @@ Bulgaria 🇧🇬
 Croatia 🇭🇷
 ----------
 
+
+**Meta**
+    - Can have winter coverage.
+
+
 .. image:: images/croatia-bollard.png
   :height: 250
 .. image:: images/croatia-road-signs-1.png
