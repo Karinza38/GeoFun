@@ -119,7 +119,7 @@ Finland 🇫🇮
 
 **Road markings**
     - The double continuous lines in the middle of the street can be yellow.
-    - There can be one continuous yellow line and one white dashed line in the middle of the street.
+    - There can be one continuous or dashed yellow line and one white dashed line in the middle of the street.
 
 France 🇫🇷
 ---------

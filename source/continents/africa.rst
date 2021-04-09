@@ -42,3 +42,9 @@ Tunisia 🇹🇳
 
 Uganda 🇺🇬
 ---------
+
+**Meta**
+	- Large white Google car
+	
+.. image:: images/uganda-car.png
+  :height: 250

@@ -55,6 +55,12 @@ Malaysia 🇲🇾
 Mongolia 🇲🇳
 -----------
 
+**Cars**
+	- Many cars have the steering wheel on the right.
+
+**Meta**
+	- Google car can have camping equipment or the "kenyan snorkle".
+
 Philippines 🇵🇭
 --------------
 
