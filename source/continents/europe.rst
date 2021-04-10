@@ -308,6 +308,14 @@ Sweden 🇸🇪
 
 **Road signs**
     - Yellow filling for priority, warnings and prohibitory signs.
+    - Cylindrical bollards. The reflective strip can be white or yellow.
+
+.. image:: images/sweden-bollard-back.png
+  :height: 250
+.. image:: images/sweden-bollard.png
+  :height: 250
+.. image:: images/sweden-signs.png
+  :height: 250
 
 **Websites**
     - Domain name ends in ``.se``
