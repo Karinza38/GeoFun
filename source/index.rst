@@ -8,13 +8,18 @@ Welcome to GeoFun's documentation!
 
 .. toctree::
    :maxdepth: 1
-   :caption: Continents:
+   :caption: Areas:
 
-   continents/europe
+   continents/europe_west
+   continents/europe_north
+   continents/europe_british
+   continents/europe_east
+   continents/middle_east
+   continents/asia_south_east
+   continents/asia_north_center
    continents/africa
-   continents/asia
-   continents/nord_central_america
-   continents/south_america
+   continents/nord_america
+   continents/south_central_america
    continents/oceania
 
 .. toctree::
