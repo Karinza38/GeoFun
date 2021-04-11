@@ -30,7 +30,7 @@ Austria 🇦🇹
 Belgium 🇧🇪
 ----------
 
-**License plate**
+**Cars**
     - Blue strip but red border and letters.
 
 France 🇫🇷

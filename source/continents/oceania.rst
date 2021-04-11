@@ -8,5 +8,8 @@ Oceania
 Australia 🇦🇺
 ------------
 
+**Cars**
+	- Often narrower yellow plates.
+
 New Zealand 🇳🇿
 --------------

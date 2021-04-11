@@ -10,6 +10,9 @@ America: South and Central
 Argentina 🇦🇷
 ------------
 
+**Cars**
+	- White license plate with a black dot in the middle.
+
 Bolivia 🇧🇴
 ----------
 
@@ -27,6 +30,9 @@ Chile 🇨🇱
 
 Colombia 🇨🇴
 -----------
+
+**Cars**
+	- Yellow license plates (exept taxis which have white plates).
 
 Ecuador 🇪🇨
 ----------

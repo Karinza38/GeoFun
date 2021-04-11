@@ -104,6 +104,9 @@ North Macedonia 🇲🇰
 **Road signs**
     - Yellow filling for give way sign (triangular).
 
+**Cars**
+    - White plates
+
 
 Poland 🇵🇱
 ---------
@@ -168,3 +171,5 @@ Ukraine 🇺🇦
 **Meta**
     - Often the Google car is red with an antenna. Occasionally, this can be seen in Belgium.
 
+**Cars**
+    - License plate has a strip with the flag colours on the left.

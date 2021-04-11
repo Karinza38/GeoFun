@@ -14,6 +14,9 @@ Bangladesh 🇧🇩
 Bhutan 🇧🇹
 ---------
 
+**Cars**
+	- Red plates
+
 Cambodia 🇰🇭
 -----------
 
@@ -24,8 +27,10 @@ Indonesia 🇮🇩
 ------------
 
 **License plate**
-    - Often there are black plates (also in Singapore and Malaysia).
+    - Often there are black plates (also in Singapore and Malaysia). They usually have 3 white sections, instead of 2 (Malaysia).
 
+.. image:: images/indonesia-plate.png
+  :height: 250
 
 Japan 🇯🇵
 --------
@@ -34,17 +39,25 @@ Japan 🇯🇵
 
 - Low camera
 
+Laos 🇱🇦 
+-------
+
+**Cars**
+	- Yellow plates.
 
 
 Malaysia 🇲🇾
 -----------
 
 **License plate**
-    - Often there are black plates (also in Indonesia and Singapore).
+    - Often there are black plates (also in Indonesia and Singapore). They usually have 2 white sections, instead of 3 (Indonesia).
 
 
 Philippines 🇵🇭
 --------------
+
+**Cars**
+	- Taxis can have green plates.
 
 
 Singapore 🇸🇬
@@ -72,3 +85,5 @@ Taiwan 🇹🇼
 Thailand 🇹🇭
 -----------
 
+**Cars**
+	- White plates

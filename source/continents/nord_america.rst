@@ -14,3 +14,6 @@ United States 🇺🇸
 **Road sign**
     - Speed limit similar to Canada, but says "Speed limit"
 
+**Cars**
+	- Yellow license plates in New York, Alaska and New Jersey (lighter yellow)
+
