@@ -23,6 +23,9 @@ Norway 🇳🇴
 **License plates**
     - Commercial vehicles have green plates.
 
+**Road markings**
+  - The line separating traffic can be yellow.
+
 
 Sweden 🇸🇪
 ---------
@@ -48,6 +51,11 @@ Finland 🇫🇮
 **Road signs**
     - Yellow filling for priority, warnings and prohibitory signs.
     - Bus stop: yellow sign with a bus.
+
+.. image:: images/finland-bollard.png
+  :height: 250
+.. image:: images/finland-bollard-back.png
+  :height: 250
 
 **Road markings**
     - The double continuous lines in the middle of the street can be yellow.

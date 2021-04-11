@@ -37,9 +37,13 @@ Bulgaria 🇧🇬
 **Road signs**
     - White hexagonal looking bollards with black band and red strip
 
+**Landscape**
+    - Metal bins
+
 .. image:: images/bulgaria-bollard.png
-  :width: 200
-  :alt: The bollard in Bulgaria.
+  :height: 250
+.. image:: images/bulgaria-bins.png
+  :height: 250
 
 Croatia 🇭🇷
 ----------

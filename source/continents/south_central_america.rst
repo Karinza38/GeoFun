@@ -34,6 +34,12 @@ Ecuador 🇪🇨
 Peru 🇵🇪
 -------
 
+**Road signs**
+	- Guard rail with yellow and black lines.
+
+.. image:: images/peru-guardrail.png
+  :height: 250
+
 Uruguay 🇺🇾
 ----------
 
