@@ -6,3 +6,4 @@ Useful links
 - French speaking countries in Africa: https://www.worldatlas.com/articles/french-speaking-countries-in-africa.html
 - European letters cheat sheet: https://docs.google.com/spreadsheets/d/1ClmM3KZkFcE8zoWZkHD60ZCjyBri5OdRaOS0eNrdjL0/edit#gid=0
 - Road numbering schemes in europe: https://i.redd.it/1o72b693cxr61.png
+- Google car and camera info: https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit#gid=229203721
