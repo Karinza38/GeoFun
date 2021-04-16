@@ -51,6 +51,7 @@ Finland 🇫🇮
 **Road signs**
     - Yellow filling for priority, warnings and prohibitory signs.
     - Bus stop: yellow sign with a bus.
+    - The bollard support can be of different materials and shapes.
 
 .. image:: images/finland-bollard.png
   :height: 250
@@ -87,6 +88,13 @@ Latvia 🇱🇻
 
 Lithuania 🇱🇹
 ------------
+
+**Road signs**
+
+.. image:: images/lithuania-bollard.png
+  :height: 250
+.. image:: images/lithuania-bollard-back.png
+  :height: 250
 
 **Language**
     - Words often end in AI or AS

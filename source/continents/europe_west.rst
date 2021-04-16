@@ -93,6 +93,9 @@ Netherlands 🇳🇱
 **License plate**
     - Yellow plate with blue strip on the left
 
+.. image:: images/netherlands-bollard.png
+  :height: 250
+
 Portugal 🇵🇹
 -----------
 
