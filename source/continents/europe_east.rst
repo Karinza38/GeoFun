@@ -133,6 +133,12 @@ Serbia 🇷🇸
 **Websites**
     - Domain name ends with ``.rs``.
 
+**Road signs**
+    - The bollard is similar to the one in Austria, Slovenia and Montenegro, but the reflective strip is more lateral.
+
+.. image:: images/serbia-bollard.png
+  :height: 250
+
 Slovakia 🇸🇰
 -----------
 

@@ -13,3 +13,6 @@ Australia 🇦🇺
 
 New Zealand 🇳🇿
 --------------
+
+**Road Markings**
+	- Can have yellow dotted shoulder lines (and white in the middle).
