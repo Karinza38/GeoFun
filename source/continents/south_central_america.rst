@@ -28,6 +28,15 @@ Chile 🇨🇱
 **Road lines**
 	- Usually has all white lines.
 
+**Cars**
+	- Around valle de las Arenas a weird car can be seen.
+
+.. image:: images/valle-de-las-arenas.png
+  :height: 300
+.. image:: images/chile-weird-car.png
+  :height: 300
+
+
 Colombia 🇨🇴
 -----------
 
