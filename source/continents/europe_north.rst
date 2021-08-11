@@ -84,6 +84,10 @@ Estonia 🇪🇪
 **Road signs**
     - Give way to incoming traffic: arrows heads are close rather than the arrows being next to each other
 
+.. image:: images/estonia-bollard.png
+  :height: 250
+  
+
 Latvia 🇱🇻
 ---------
 

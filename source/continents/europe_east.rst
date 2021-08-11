@@ -80,6 +80,15 @@ Hungary 🇭🇺
 **Language**
     - 'Utca' means street
 
+**Road signs**
+
+.. image:: images/hungary-bollard-front.png
+  :height: 250
+.. image:: images/hungary-bollard-back.png
+  :height: 250
+.. image:: images/hungary-bollard-patacchino.png
+  :height: 250
+
 
 Moldova 🇲🇩
 ----------
@@ -132,6 +141,9 @@ Serbia 🇷🇸
 
 **Websites**
     - Domain name ends with ``.rs``.
+
+**License plate**
+    - Blue strip since 2011.
 
 **Road signs**
     - The bollard is similar to the one in Austria, Slovenia and Montenegro, but the reflective strip is more lateral.

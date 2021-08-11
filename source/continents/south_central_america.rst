@@ -10,6 +10,9 @@ America: South and Central
 Argentina 🇦🇷
 ------------
 
+**Road**
+  - Can have all white lines (like in Chile).
+
 **Cars**
 	- White license plate with a black dot in the middle.
 
@@ -26,7 +29,7 @@ Chile 🇨🇱
 --------
 
 **Road lines**
-	- Usually has all white lines.
+	- Usually has all white lines (Argentina can also have white lines).
 
 **Cars**
 	- Around valle de las Arenas a weird car can be seen.
@@ -41,7 +44,7 @@ Colombia 🇨🇴
 -----------
 
 **Cars**
-	- Yellow license plates (exept taxis which have white plates).
+	- Yellow license plates (except taxis which have white plates).
 
 Ecuador 🇪🇨
 ----------
