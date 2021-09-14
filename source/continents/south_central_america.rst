@@ -57,6 +57,8 @@ Peru 🇵🇪
 
 .. image:: images/peru-guardrail.png
   :height: 250
+.. image:: images/central-peru.png
+  :height: 250
 
 Uruguay 🇺🇾
 ----------
