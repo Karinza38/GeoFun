@@ -76,6 +76,9 @@ Guatemala 🇬🇹
 Mexico 🇲🇽
 ---------
 
+**Road Lines**
+    - Observed: Yellow continuous line in the middle, continuous white lines on the side.
+
 Puerto Rico 🇵🇷
 --------------
 
