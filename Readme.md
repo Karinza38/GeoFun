@@ -1,4 +1,4 @@
-# GeoFun Repository
+ # GeoFun Repository
 
 To get started:
 
